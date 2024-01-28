@@ -46,10 +46,15 @@ section{
     z-index: 100;
 }   
 
+.officers-img{ 
+    width: 190vh;
+    margin-top: -50px;
+}
+
 .isitelogo {
 
     width: 45px;
-    margin-right: -500px;
+    margin-right: -400px;
 }
 
 .header .sticky {
